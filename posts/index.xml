@@ -3,7 +3,14 @@
         <title>所有文章 - Ybsite</title>
         <link>https://freeyy.github.io/posts/</link>
         <description>所有文章 | Ybsite</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 31 Dec 2020 18:08:34 -0800</lastBuildDate><atom:link href="https://freeyy.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 31 Dec 2020 18:37:20 -0800</lastBuildDate><atom:link href="https://freeyy.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>My Second Post</title>
+    <link>https://freeyy.github.io/posts/my-second-post/</link>
+    <pubDate>Thu, 31 Dec 2020 18:37:20 -0800</pubDate>
+    <author>作者</author>
+    <guid>https://freeyy.github.io/posts/my-second-post/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>My First Post</title>
     <link>https://freeyy.github.io/posts/my-first-post/</link>
     <pubDate>Thu, 31 Dec 2020 18:08:34 -0800</pubDate>

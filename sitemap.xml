@@ -2,8 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://freeyy.github.io/posts/my-second-post/</loc><lastmod>2020-12-31T18:37:20-08:00</lastmod></url><url>
+            <loc>https://freeyy.github.io/posts/</loc><lastmod>2020-12-31T18:37:20-08:00</lastmod></url><url>
+            <loc>https://freeyy.github.io/</loc><lastmod>2020-12-31T18:37:20-08:00</lastmod></url><url>
             <loc>https://freeyy.github.io/posts/my-first-post/</loc><lastmod>2020-12-31T18:08:34-08:00</lastmod></url><url>
-            <loc>https://freeyy.github.io/posts/</loc><lastmod>2020-12-31T18:08:34-08:00</lastmod></url><url>
-            <loc>https://freeyy.github.io/</loc><lastmod>2020-12-31T18:08:34-08:00</lastmod></url><url>
             <loc>https://freeyy.github.io/categories/</loc></url><url>
             <loc>https://freeyy.github.io/tags/</loc></url></urlset>
