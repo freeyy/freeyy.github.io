@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Ybsite</title>
-        <link>freeyy.github.io/</link>
-        <description>Ybsite</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 31 Dec 2020 18:08:34 -0800</lastBuildDate>
-            <atom:link href="freeyy.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>所有文章 - Ybsite</title>
+        <link>freeyy.github.io/posts/</link>
+        <description>所有文章 | Ybsite</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 31 Dec 2020 18:08:34 -0800</lastBuildDate><atom:link href="freeyy.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>My First Post</title>
     <link>freeyy.github.io/posts/my-first-post/</link>
     <pubDate>Thu, 31 Dec 2020 18:08:34 -0800</pubDate>
