@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Ybsite</title>
-        <link>freeyy.github.io/</link>
+        <link>https://freeyy.github.io/</link>
         <description>Ybsite</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 31 Dec 2020 18:08:34 -0800</lastBuildDate>
-            <atom:link href="freeyy.github.io/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://freeyy.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>My First Post</title>
-    <link>freeyy.github.io/posts/my-first-post/</link>
+    <link>https://freeyy.github.io/posts/my-first-post/</link>
     <pubDate>Thu, 31 Dec 2020 18:08:34 -0800</pubDate>
     <author>作者</author>
-    <guid>freeyy.github.io/posts/my-first-post/</guid>
+    <guid>https://freeyy.github.io/posts/my-first-post/</guid>
     <description><![CDATA[test content]]></description>
 </item></channel>
 </rss>
